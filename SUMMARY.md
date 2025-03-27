@@ -16,11 +16,8 @@
 ## Clinical Use Case
 
 * [3. Clinical Use Case](clinical-use-case/3.-clinical-use-case.md)
-
-***
-
-* [3.1 Clinical Workflow](3.1-clinical-workflow.md)
-* [3.2 Use Case Scenarios](3.2-use-case-scenarios.md)
+* [3.1 Clinical Workflow](clinical-use-case/3.1-clinical-workflow.md)
+* [3.2 Use Case Scenarios](clinical-use-case/3.2-use-case-scenarios.md)
 
 ## Content Development Principles
 
