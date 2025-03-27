@@ -1,8 +1,11 @@
 # Table of contents
 
 * [Implementation Guide for the LOINC Ontology](README.md)
-* [1. Introduction](1.-introduction.md)
-* [Executive Summary](executive-summary.md)
+
+## Introduction
+
+* [1. Introduction](introduction/1.-introduction.md)
+* [Executive Summary](introduction/executive-summary.md)
 
 ## What is LOINC?
 

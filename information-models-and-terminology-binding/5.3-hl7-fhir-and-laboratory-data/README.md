@@ -42,6 +42,8 @@ The image below illustrates how FHIR resources can be used to represent the gene
 | <table data-header-hidden><thead><tr><th></th></tr></thead><tbody><tr><td></td></tr></tbody></table> |
 | ---------------------------------------------------------------------------------------------------- |
 |                                                                                                      |
+|                                                                                                      |
+|                                                                                                      |
 
 **Relationships**
 
@@ -49,4 +51,4 @@ The image below illustrates how FHIR resources can be used to represent the gene
 * The **FHIR DiagnosticReport** includes one or more **FHIR Observations**, each representing an individual result.
 * The **FHIR Specimen** resource is central to the model, linking the order, results, and observations to the biological material tested.
 
-\
+\\
