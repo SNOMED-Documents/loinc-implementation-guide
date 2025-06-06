@@ -25,6 +25,4 @@ layout:
 
 ***
 
-
-
-{% include ".gitbook/includes/copyright-statement.md" %}
+{% include "https://app.gitbook.com/s/KbECNHVpqdRmTn8m03ns/~/reusable/fPpkHYQG98V7O7BwsCeR/" %}
