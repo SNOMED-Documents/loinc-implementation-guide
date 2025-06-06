@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/LOINC_SNOMED_web.jpg
+cover: .gitbook/assets/banner.jpg
 coverY: 0
 layout:
   cover:
