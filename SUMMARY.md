@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Implementation Guide for the LOINC Ontology](README.md)
-* [Implementation Guide FRONT PAGE](readme-1.md)
+* [Implementation Guide FRONT PAGE](implementation-guide-front-page.md)
 
 ## Introduction
 
