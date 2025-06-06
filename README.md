@@ -19,8 +19,6 @@ layout:
 
 # Implementation Guide for the LOINC Ontology
 
-***
-
 <details>
 
 <summary>Summary</summary>
@@ -38,8 +36,6 @@ From a technical perspective, the guide provides practical steps for deploying t
 By implementing the LOINC Ontology within SNOMED CT, organizations can achieve greater interoperability, enhance the accuracy of laboratory result standardization, improve data consistency and analytics, and support terminology-driven decision support for a more structured and precise representation of clinical data. This guide serves as a comprehensive resource for ensuring the effective implementation, maintenance, and utilization of the LOINC Ontology within SNOMED CT, supporting a more standardized and interoperable healthcare ecosystem.
 
 </details>
-
-***
 
 ## Contents
 
