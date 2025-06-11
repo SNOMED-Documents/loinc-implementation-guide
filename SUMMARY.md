@@ -4,8 +4,8 @@
 
 ## Introduction
 
-* [1. Introduction](introduction/1.-introduction.md)
 * [Executive Summary](introduction/executive-summary.md)
+* [1. Introduction](introduction/1.-introduction.md)
 
 ## What is LOINC?
 
