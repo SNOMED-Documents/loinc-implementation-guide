@@ -43,4 +43,4 @@ By implementing the LOINC Ontology within SNOMED CT, organizations can achieve g
 
 ***
 
-{% include "https://app.gitbook.com/s/KbECNHVpqdRmTn8m03ns/~/reusable/fPpkHYQG98V7O7BwsCeR/" %}
+{% include "https://app.gitbook.com/s/5ePKL1wPtOcE6DS3HJBR/~/reusable/MLPTPVV150ldNmCkOl87/" %}
