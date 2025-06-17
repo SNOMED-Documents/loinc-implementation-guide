@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Executive Summary
 
 The SNOMED CT Implementation Guide for the LOINC Ontology provides essential guidance for implementing and utilizing the LOINC Ontology, an extension to SNOMED CT that enables LOINC users to leverage SNOMED CT’s structured design while also allowing SNOMED CT users to utilize LOINC. Developed through a collaboration between SNOMED International and the Regenstrief Institute, this guide supports terminology implementers, system developers, and clinical informaticians in adopting the LOINC Ontology for interoperable, standardized, and computable healthcare data.
