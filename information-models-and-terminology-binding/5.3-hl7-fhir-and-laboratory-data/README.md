@@ -1,4 +1,4 @@
-# 5.3 HL7 FHIR and Laboratory Data
+# HL7 FHIR and Laboratory Data
 
 ## What is FHIR? <a href="#id-5.3hl7fhirandlaboratorydata-whatisfhir" id="id-5.3hl7fhirandlaboratorydata-whatisfhir"></a>
 
@@ -39,16 +39,10 @@ The image below illustrates how FHIR resources can be used to represent the gene
   * Link to the associated specimen
 * **Specimen**: Mapped to the **FHIR Specimen** resource, which defines the type and method of specimen collection. This resource connects all entities within the generalized logical model.
 
-| <table data-header-hidden><thead><tr><th></th></tr></thead><tbody><tr><td></td></tr></tbody></table> |
-| ---------------------------------------------------------------------------------------------------- |
-|                                                                                                      |
-|                                                                                                      |
-|                                                                                                      |
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 **Relationships**
 
 * The **FHIR ServiceRequest** initiates the laboratory process and forms the basis for the **FHIR DiagnosticReport**.
 * The **FHIR DiagnosticReport** includes one or more **FHIR Observations**, each representing an individual result.
 * The **FHIR Specimen** resource is central to the model, linking the order, results, and observations to the biological material tested.
-
-\\

@@ -1,4 +1,4 @@
-# 4.2 Template Based Content Creation
+# Template Based Content Creation
 
 LOINC Terms are expressed as SNOMED CT concepts by following a [transformation algorithm detailed in pseudocode](https://docs.google.com/document/d/1rz2s3ga2dpdwI1WVfcQMuRXWi5RgpJOIdicgOz16Yzg). This has been implemented as a number of Java classes, freely available in [this package in the SNOMED International GitHub Reporting Engine project](https://github.com/IHTSDO/reporting-engine/tree/develop/script-engine/src/main/java/org/ihtsdo/termserver/scripting/pipeline/loinc).
 
@@ -18,17 +18,4 @@ The processing algorithm follows these high level steps
 
 In addition, LOINC Panels are created as primitive concepts, where the individual tests in each panel are available as transformed SNOMED CT concepts.
 
-The templates used for the various LOINC Properties are as follows:
-
-* 4.2.1 Quality Observable with Component
-* [4.2.2 Quality Observable with Inheres in (System, no Component)](https://github.com/IHTSDO/loinc-implementation-guide/blob/main/content-development-principles/4.2-template-based-content-creation/broken-reference/README.md)
-* [4.2.3 Quality Observable with Inheres In](https://github.com/IHTSDO/loinc-implementation-guide/blob/main/content-development-principles/4.2-template-based-content-creation/broken-reference/README.md)
-* [4.2.4 Quality Observable with Process](https://github.com/IHTSDO/loinc-implementation-guide/blob/main/content-development-principles/4.2-template-based-content-creation/broken-reference/README.md)
-* 4.2.5 Quality Observable with Ratio
-* [4.2.6 Quality Observable with Relative to](https://github.com/IHTSDO/loinc-implementation-guide/blob/main/content-development-principles/4.2-template-based-content-creation/broken-reference/README.md)
-* [4.2.7 Quality Observable with Susceptibility](https://github.com/IHTSDO/loinc-implementation-guide/blob/main/content-development-principles/4.2-template-based-content-creation/broken-reference/README.md)
-* [4.2.8 Quality Observable with Process (No Process output, With Time aspect)](https://github.com/IHTSDO/loinc-implementation-guide/blob/main/content-development-principles/4.2-template-based-content-creation/broken-reference/README.md)
-
-\\
-
-See [LOINC Morning Presentation](https://docs.google.com/presentation/d/1NvcH06JWgC2ss_A_TQDz9SzQzVR2RNWgBGjG5uARGpw/edit#slide=id.g2871ae07855_0_0)
+See [LOINC Presentation](https://docs.google.com/presentation/d/1NvcH06JWgC2ss_A_TQDz9SzQzVR2RNWgBGjG5uARGpw/edit#slide=id.g2871ae07855_0_0)
