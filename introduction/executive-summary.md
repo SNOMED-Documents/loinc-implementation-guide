@@ -15,3 +15,10 @@ A key section covers how LOINC terms are represented within SNOMED CT, using its
 From a technical perspective, the guide provides practical steps for deploying the LOINC Ontology within SNOMED CT-enabled systems. It explains methods for accessing the LOINC Ontology, such as through a FHIR Terminology Server or relational databases, and best practices for querying, retrieving, and maintaining LOINC data. It also addresses managing references to inactive concepts, version control considerations, and impact assessment to ensure alignment with SNOMED CT updates and national extensions.
 
 By implementing the LOINC Ontology within SNOMED CT, organizations can achieve greater interoperability, enhance the accuracy of laboratory result standardization, improve data consistency and analytics, and support terminology-driven decision support for a more structured and precise representation of clinical data. This guide serves as a comprehensive resource for ensuring the effective implementation, maintenance, and utilization of the LOINC Ontology within SNOMED CT, supporting a more standardized and interoperable healthcare ecosystem.
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=LOINC+Implementation+Guide&entry.670899847=Executive%20Summary" class="button primary">Provide Feedback</a>

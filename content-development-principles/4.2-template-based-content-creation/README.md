@@ -19,3 +19,10 @@ The processing algorithm follows these high level steps
 In addition, LOINC Panels are created as primitive concepts, where the individual tests in each panel are available as transformed SNOMED CT concepts.
 
 See [LOINC Presentation](https://docs.google.com/presentation/d/1NvcH06JWgC2ss_A_TQDz9SzQzVR2RNWgBGjG5uARGpw/edit#slide=id.g2871ae07855_0_0)
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=LOINC+Implementation+Guide&entry.670899847=Template%20Based%20Content%20Creation" class="button primary">Provide Feedback</a>

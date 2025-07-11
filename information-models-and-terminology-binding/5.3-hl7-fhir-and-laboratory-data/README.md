@@ -46,3 +46,10 @@ The image below illustrates how FHIR resources can be used to represent the gene
 * The **FHIR ServiceRequest** initiates the laboratory process and forms the basis for the **FHIR DiagnosticReport**.
 * The **FHIR DiagnosticReport** includes one or more **FHIR Observations**, each representing an individual result.
 * The **FHIR Specimen** resource is central to the model, linking the order, results, and observations to the biological material tested.
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=LOINC+Implementation+Guide&entry.670899847=HL7%20FHIR%20and%20Laboratory%20Data" class="button primary">Provide Feedback</a>

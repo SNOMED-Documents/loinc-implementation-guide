@@ -11,3 +11,10 @@ Any modification of this document (including without limitation the removal or m
 
 SNOMED®, SNOMED CT® and IHTSDO® are registered trademarks of International Health Terminology Standards Development Organisation. SNOMED CT® licensing information is available at [http://snomed.org/licensing](http://snomed.org/licensing). For more information about SNOMED International and SNOMED International Membership, please refer to [http://www.snomed.org](http://www.ihtsdo.org/) or contact us at [info@snomed.org](mailto:info@ihtsdo.org).
 {% endhint %}
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=LOINC+Implementation+Guide&entry.670899847=copyright-statement" class="button primary">Provide Feedback</a>

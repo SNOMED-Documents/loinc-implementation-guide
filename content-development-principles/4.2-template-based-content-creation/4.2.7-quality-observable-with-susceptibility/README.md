@@ -65,3 +65,10 @@ In the case of the example below, this results in the following terms:
 #### Loinc Parts mapped to SNOMED Attributes <a href="#id-4.2.7qualityobservablewithsusceptibility-loincpartsmappedtosnomedattributes" id="id-4.2.7qualityobservablewithsusceptibility-loincpartsmappedtosnomedattributes"></a>
 
 <table data-full-width="true"><thead><tr><th width="129.18359375">Part Type</th><th width="149.8671875">LOINC Part Name</th><th width="163.41796875">LOINC Part Num</th><th>Mapped to Attribute Type / Value</th></tr></thead><tbody><tr><td>Component</td><td>Ciprofloxacin</td><td>LP15380-6</td><td>704320005 |Towards (attribute)| -> 372840008 |Ciprofloxacin (substance)|</td></tr><tr><td>Property</td><td>Susc</td><td>LP6870-2</td><td>370130000 |Property (attribute)| -> 118588007 |Susceptibility (property) (qualifier value)|</td></tr><tr><td>Time</td><td>Pt</td><td>LP6960-1</td><td>370134009 |Time aspect (attribute)| -> 123029007 |Single point in time (qualifier value)|</td></tr><tr><td>Scale</td><td>OrdQn</td><td>LP7752-1</td><td>370132008 |Scale type (attribute)| -> 117365007 |Ordinal OR quantitative value (qualifier value)|</td></tr></tbody></table>
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=LOINC+Implementation+Guide&entry.670899847=Quality%20Observable%20with%20Susceptibility" class="button primary">Provide Feedback</a>
