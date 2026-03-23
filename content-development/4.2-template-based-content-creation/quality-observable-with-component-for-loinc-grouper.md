@@ -2,9 +2,9 @@
 
 This template is used for LOINC Concepts that do not have all their parts specified and which, as such, act as groupers for all child concepts which also have the same parts.  These grouper concepts are all expected to be orderable.
 
-This template is documented in Confluence here:  [Quality observable with Component for LOINC Grouper (observable entity) - v1.0](quality-observable-with-component-for-loinc-grouper.md)
+This template is documented here:  [Quality observable with Component for LOINC Grouper (observable entity) - v1.0](https://conf.spaces.snomed.org/wiki/spaces/SCTEMPLATES/pages/134002439/Quality+observable+with+Component+for+LOINC+Grouper+observable+entity+-+v1.0)
 
-The java implementation of this template can be found: [https://github.com/IHTSDO/reporting-engine/blob/2025\_Q4/script-engine/src/main/java/org/ihtsdo/termserver/scripting/pipeline/loinc/template/LoincTemplatedConceptForGrouper.java](https://github.com/IHTSDO/reporting-engine/blob/2025_Q4/script-engine/src/main/java/org/ihtsdo/termserver/scripting/pipeline/loinc/template/LoincTemplatedConceptForGrouper.java)
+The java implementation of this template can be found [here](https://github.com/IHTSDO/reporting-engine/tree/7.9.2/script-engine/src/main/java/org/ihtsdo/termserver/scripting/pipeline/loinc/template/LoincTemplatedConceptForGrouper.java).
 
 ## Attributes <a href="#id-4.2.5qualityobservablewithratio-attributes" id="id-4.2.5qualityobservablewithratio-attributes"></a>
 
@@ -12,14 +12,15 @@ The java implementation of this template can be found: [https://github.com/IHTSD
 * **LOINC System**: Specifies the direct site of the observation.
 * **LOINC Component**: Represents the specific component being measured or observed.
 
-
-
+{% hint style="info" %}
 LOINC Properties currently supported: {Measurement}
+{% endhint %}
 
 ## Template <a href="#id-4.2.5qualityobservablewithratio-template" id="id-4.2.5qualityobservablewithratio-template"></a>
 
 ### Model <a href="#id-4.2.5qualityobservablewithratio-model" id="id-4.2.5qualityobservablewithratio-model"></a>
 
+{% code overflow="wrap" %}
 ```
 === 363787002 |Observable entity (observable entity)| : {  
   [S1] 246093002 |Component (attribute)| -> 304053000 |Phosphate electrolyte (substance)|,
@@ -27,6 +28,7 @@ LOINC Properties currently supported: {Measurement}
   [S1] 704327008 |Direct site (attribute)| -> 122575003 |Urine specimen (specimen)| 
 }
 ```
+{% endcode %}
 
 ### Terming <a href="#id-4.2.5qualityobservablewithratio-terming" id="id-4.2.5qualityobservablewithratio-terming"></a>
 
@@ -42,11 +44,7 @@ The LOINC Long Common Name is specified as the Preferred Term and the LOINC Shor
 
 In the case of the example below, this results in the following terms:
 
-* 4079581010000116 \[711831010000101] US: P Measurement of phosphate electrolyte in urine (observable entity) \[ci]
-* 4079571010000119 \[711831010000101] US: P Phosphate \[Measurement] in Urine \[CS]
-* 4079561010000112 \[711831010000101] US: A Measurement of phosphate electrolyte in urine \[ci]
-* 4079591010000118 \[711831010000101] US: A Phosphate (U) \[Measurement] \[CS]
-* 4079601010000112 \[711831010000101] US: A Phosphate:{Measurement}:-:Urine:- \[CS]
+<table><thead><tr><th>Concept Id</th><th>Description Id</th><th width="99.43487548828125">Acceptability</th><th width="292.2630615234375">Term</th><th>Case</th></tr></thead><tbody><tr><td>711831010000101</td><td>4079581010000116</td><td>US: P</td><td>Measurement of phosphate electrolyte in urine (observable entity)</td><td>ci</td></tr><tr><td>711831010000101</td><td>4079571010000119</td><td>US: P</td><td>Phosphate [Measurement] in Urine</td><td>CS</td></tr><tr><td>711831010000101</td><td>4079561010000112</td><td>US: A</td><td>Measurement of phosphate electrolyte in urine</td><td>ci</td></tr><tr><td>711831010000101</td><td>4079591010000118</td><td>US: A</td><td>Phosphate (U) [Measurement]</td><td>CS</td></tr><tr><td>711831010000101</td><td>4079601010000112</td><td>US: A</td><td>Phosphate:{Measurement}:-:Urine:-</td><td>CS</td></tr></tbody></table>
 
 ### Examples <a href="#id-4.2.5qualityobservablewithratio-examples" id="id-4.2.5qualityobservablewithratio-examples"></a>
 

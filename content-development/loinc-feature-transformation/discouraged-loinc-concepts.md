@@ -14,3 +14,7 @@ The equivalent property in SNOMED CT concepts, is the "active" flag, but this ca
 TRAIL concepts are considered available for use, and so this status is not expressed in the SNOMED CT transformation of LOINC concepts.
 
 DISCOURAGED, however, is represented using an Annotation (starting from Release 2.0 Effective Time 20250921).   These are expressed in the ComponentAnnotation file eg der2\_scsRefset\_ComponentAnnotationStringValueSnapshot\_LO1010000\_20250921.txt with the column for _referencedComponentId_ set to the SCTID of the relevant concept, and the annotation text "Discouraged" in the _value_ column.
+
+In the LOINC SNOMED Browser, this annotation is represented on the "details" tab:
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>

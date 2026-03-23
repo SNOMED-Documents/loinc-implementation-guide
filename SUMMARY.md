@@ -33,8 +33,10 @@
   * [Quality observable with Component for LOINC Grouper](content-development/4.2-template-based-content-creation/quality-observable-with-component-for-loinc-grouper.md)
   * [Quality Observable with Susceptibility](content-development/4.2-template-based-content-creation/4.2.7-quality-observable-with-susceptibility.md)
   * [Quality Observable with Process (No Process output, With Time aspect)](content-development/4.2-template-based-content-creation/4.2.8-quality-observable-with-process-no-process-output-with-time-aspect.md)
+  * [Impression Observable](content-development/4.2-template-based-content-creation/4.2.1-quality-observable-with-component-1.md)
 * [LOINC Feature Transformation](content-development/loinc-feature-transformation/README.md)
   * [Orderable and Observable LOINC Concepts](content-development/loinc-feature-transformation/4.3-orderable-and-observable-loinc-terms.md)
+  * [LOINC Groupers](content-development/loinc-feature-transformation/loinc-groupers.md)
   * [Discouraged LOINC Concepts](content-development/loinc-feature-transformation/discouraged-loinc-concepts.md)
 
 ## Information Models and Terminology Binding

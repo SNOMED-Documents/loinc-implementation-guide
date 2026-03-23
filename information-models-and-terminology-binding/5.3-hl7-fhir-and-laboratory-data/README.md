@@ -22,8 +22,8 @@ For the purpose of representing the laboratory data workflow, we can use the fol
 
 Examples:
 
-* 5.3.1 FHIR Resources for Ordering Laboratory Tests
-* 5.3.2 FHIR Resources for Representing Laboratory Results
+* [FHIR Resources for Ordering Laboratory Tests](5.3.1-fhir-resources-for-ordering-laboratory-tests.md)
+* [FHIR Resources for Representing Laboratory Results](5.3.2-fhir-resources-for-representing-laboratory-results.md)
 
 ## Map between the Generalized Logical Model FHIR Resources <a href="#id-5.3hl7fhirandlaboratorydata-mapbetweenthegeneralizedlogicalmodelfhirresources" id="id-5.3hl7fhirandlaboratorydata-mapbetweenthegeneralizedlogicalmodelfhirresources"></a>
 
@@ -47,9 +47,4 @@ The image below illustrates how FHIR resources can be used to represent the gene
 * The **FHIR DiagnosticReport** includes one or more **FHIR Observations**, each representing an individual result.
 * The **FHIR Specimen** resource is central to the model, linking the order, results, and observations to the biological material tested.
 
-
-
-
-
-
-<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=LOINC+Implementation+Guide&entry.670899847=HL7%20FHIR%20and%20Laboratory%20Data" class="button primary">Provide Feedback</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&#x26;entry.1767247133=LOINC+Implementation+Guide&#x26;entry.670899847=HL7%20FHIR%20and%20Laboratory%20Data" class="button primary">Provide Feedback</a>
