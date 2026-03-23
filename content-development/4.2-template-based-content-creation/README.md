@@ -1,6 +1,6 @@
 # Template Based Content Creation
 
-LOINC Terms are expressed as SNOMED CT concepts by following a [transformation algorithm detailed in pseudocode](https://docs.google.com/document/d/1rz2s3ga2dpdwI1WVfcQMuRXWi5RgpJOIdicgOz16Yzg). This has been implemented as a number of Java classes, freely available in [this package in the SNOMED International GitHub Reporting Engine project](https://github.com/IHTSDO/reporting-engine/tree/develop/script-engine/src/main/java/org/ihtsdo/termserver/scripting/pipeline/loinc).
+LOINC Terms are expressed as SNOMED CT concepts by following a [transformation algorithm detailed in pseudocode](https://docs.google.com/document/d/1rz2s3ga2dpdwI1WVfcQMuRXWi5RgpJOIdicgOz16Yzg). This has been implemented as a number of Java classes, freely available in [this package in the SNOMED International GitHub Reporting Engine project](https://github.com/IHTSDO/reporting-engine/tree/7.9.2/script-engine/src/main/java/org/ihtsdo/termserver/scripting/pipeline/loinc).
 
 ## Overview <a href="#id-4.2templatebasedcontentcreation-overview" id="id-4.2templatebasedcontentcreation-overview"></a>
 
@@ -20,9 +20,4 @@ In addition, LOINC Panels are created as primitive concepts, where the individua
 
 See [LOINC Presentation](https://docs.google.com/presentation/d/1NvcH06JWgC2ss_A_TQDz9SzQzVR2RNWgBGjG5uARGpw/edit#slide=id.g2871ae07855_0_0)
 
-
-
-
-
-
-<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=LOINC+Implementation+Guide&entry.670899847=Template%20Based%20Content%20Creation" class="button primary">Provide Feedback</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&#x26;entry.1767247133=LOINC+Implementation+Guide&#x26;entry.670899847=Template%20Based%20Content%20Creation" class="button primary">Provide Feedback</a>
