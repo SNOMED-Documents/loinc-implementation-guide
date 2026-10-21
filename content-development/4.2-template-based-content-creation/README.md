@@ -1,6 +1,6 @@
 # Template Based Content Creation
 
-LOINC Terms are expressed as SNOMED CT concepts by following a [transformation algorithm detailed in pseudocode](https://docs.google.com/document/d/1rz2s3ga2dpdwI1WVfcQMuRXWi5RgpJOIdicgOz16Yzg). This has been implemented as a number of Java classes, freely available in [this package in the SNOMED International GitHub Reporting Engine project](https://github.com/IHTSDO/reporting-engine/tree/7.9.2/script-engine/src/main/java/org/ihtsdo/termserver/scripting/pipeline/loinc).
+LOINC Terms are expressed as SNOMED CT concepts by following a [transformation algorithm detailed in pseudocode](https://docs.google.com/document/d/1rz2s3ga2dpdwI1WVfcQMuRXWi5RgpJOIdicgOz16Yzg). This has been implemented as a number of Java classes, freely available in [this package in the SNOMED International GitHub Script Library project](https://github.com/IHTSDO/script-library/tree/develop/src/main/java/org/ihtsdo/termserver/scripting/pipeline/loinc).
 
 ## Overview <a href="#id-4.2templatebasedcontentcreation-overview" id="id-4.2templatebasedcontentcreation-overview"></a>
 

@@ -1,10 +1,10 @@
 # Quality observable with Component for LOINC Grouper
 
-This template is used for LOINC Concepts that do not have all their parts specified and which, as such, act as groupers for all child concepts which also have the same parts.  These grouper concepts are all expected to be orderable.
+This template is used for LOINC Concepts that do not have all their parts specified and which, as such, act as groupers for all child concepts which also have the same parts. These grouper concepts are all expected to be orderable.
 
-This template is documented here:  [Quality observable with Component for LOINC Grouper (observable entity) - v1.0](https://conf.spaces.snomed.org/wiki/spaces/SCTEMPLATES/pages/134002439/Quality+observable+with+Component+for+LOINC+Grouper+observable+entity+-+v1.0)
+This template is documented here: [Quality observable with Component for LOINC Grouper (observable entity) - v1.0](https://conf.spaces.snomed.org/wiki/spaces/SCTEMPLATES/pages/134002439/Quality+observable+with+Component+for+LOINC+Grouper+observable+entity+-+v1.0)
 
-The java implementation of this template can be found [here](https://github.com/IHTSDO/reporting-engine/tree/7.9.2/script-engine/src/main/java/org/ihtsdo/termserver/scripting/pipeline/loinc/template/LoincTemplatedConceptForGrouper.java).
+The java implementation of this template can be found [here](https://github.com/IHTSDO/script-library/blob/develop/src/main/java/org/ihtsdo/termserver/scripting/pipeline/loinc/template/LoincTemplatedConceptForGrouper.java).
 
 ## Attributes <a href="#id-4.2.5qualityobservablewithratio-attributes" id="id-4.2.5qualityobservablewithratio-attributes"></a>
 

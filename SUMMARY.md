@@ -27,6 +27,7 @@
   * [Quality Observable with Component](content-development/4.2-template-based-content-creation/4.2.1-quality-observable-with-component.md)
   * [Quality Observable with Inheres in (System, no Component)](content-development/4.2-template-based-content-creation/4.2.2-quality-observable-with-inheres-in-system-no-component.md)
   * [Quality Observable with Inheres In](content-development/4.2-template-based-content-creation/4.2.3-quality-observable-with-inheres-in.md)
+  * [Quality Observable with Inheres In and Inherent Location](content-development/4.2-template-based-content-creation/4.2.3-quality-observable-with-inheres-in-1.md)
   * [Quality Observable with Process](content-development/4.2-template-based-content-creation/4.2.4-quality-observable-with-process.md)
   * [Quality Observable with Ratio](content-development/4.2-template-based-content-creation/4.2.5-quality-observable-with-ratio.md)
   * [Quality Observable with Relative to](content-development/4.2-template-based-content-creation/4.2.6-quality-observable-with-relative-to.md)
